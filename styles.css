@@ -1,0 +1,23 @@
+body{
+    background-color:white;
+    
+}
+#menu{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+}
+#menu li{
+    width: 80px;
+	float: right;
+	margin-left: 3px;
+}
+.line {
+    border-bottom: 2px solid black;
+    margin-top: 5px;
+    width: 70%;
+
+}
+ul.list{
+    list-style-type: disc;
+}
